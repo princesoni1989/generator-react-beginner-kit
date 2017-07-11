@@ -1,5 +1,5 @@
 # generator-react-beginner-kit [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> This is full stack react generator for working with react js application  
+> This is full stack react generator for working with react js application. Generator creates react-redux based full stack application.
 
 ## Installation
 
@@ -16,7 +16,11 @@ Then generate your new project:
 yo react-beginner-kit
 ```
 ## Note
-> This create react full stack project. Complete structure can be found [here](https://github.com/princesoni1989/react-beginner-kit) 
+> This create react full stack project. Complete structure can be listed below -
+ 
+![alt text](https://github.com/princesoni1989/generator-react-beginner-kit/blob/master/folder.png)
+ 
+[More Details](https://github.com/princesoni1989/react-beginner-kit) 
 
 ## License
 
